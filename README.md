@@ -24,7 +24,7 @@ To prediction the result of the future NBA games given the results and various f
 
 ```
 1. Pip Install the requirements.txt
-  `pip install -r requirements.txt`
-2. Now you can directly run any of the three files (SVM, DecisionTrees, LR) using python3 to obtain the respective results and confusion matrix.  
+  pip install -r requirements.txt
+2. Now you can directly run any of the three files (SVM, DecisionTrees, LogisticRegression) using python3 to obtain the respective results and confusion matrix.  
 ```
 
